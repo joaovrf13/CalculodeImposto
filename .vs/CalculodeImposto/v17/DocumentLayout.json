@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|c:\\users\\joaov\\desktop\\source\\calculodeimposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|c:\\users\\joaov\\desktop\\source\\calculodeimposto\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|solutionrelative:entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|c:\\users\\joaov\\desktop\\source\\calculodeimposto\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633761CC-2241-47D3-82E2-90C3C098A586}|CalculodeImposto.csproj|solutionrelative:entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Entities\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "Entities\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Entities\\PessoaJuridica.cs",
+              "RelativeToolTip": "Entities\\PessoaJuridica.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:22:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Entities\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "Entities\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Entities\\PessoaFisica.cs",
+              "RelativeToolTip": "Entities\\PessoaFisica.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:22:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\CalculodeImposto\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:04:02.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

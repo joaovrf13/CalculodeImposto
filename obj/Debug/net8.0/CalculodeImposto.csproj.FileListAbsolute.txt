@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\source\CalculodeImposto\bin\Debug\net8.0\CalculodeImposto.exe
+C:\Users\joaov\Desktop\source\CalculodeImposto\bin\Debug\net8.0\CalculodeImposto.deps.json
+C:\Users\joaov\Desktop\source\CalculodeImposto\bin\Debug\net8.0\CalculodeImposto.runtimeconfig.json
+C:\Users\joaov\Desktop\source\CalculodeImposto\bin\Debug\net8.0\CalculodeImposto.dll
+C:\Users\joaov\Desktop\source\CalculodeImposto\bin\Debug\net8.0\CalculodeImposto.pdb
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.AssemblyInfo.cs
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.dll
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\refint\CalculodeImposto.dll
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.pdb
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\CalculodeImposto.genruntimeconfig.cache
+C:\Users\joaov\Desktop\source\CalculodeImposto\obj\Debug\net8.0\ref\CalculodeImposto.dll
